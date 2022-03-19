@@ -71,6 +71,7 @@
     <Compile Include="SupplyingExclusionsMod.cs" />
     <Compile Include="Patch_ChoreTypes_Add.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SupplyingExclusionsStrings.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="mod.yaml">
